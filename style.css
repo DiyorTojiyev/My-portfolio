@@ -290,17 +290,17 @@ section {
 }
 
 .skills .html::before {
-  width: 95%;
+  width: 80%;
   background: #E45126;
 }
 
 .skills .css::before {
-  width: 85%;
+  width: 75%;
   background: #0C73B8;
 }
 
 .skills .javascript::before {
-  width: 80%;
+  width: 70%;
   background: #E3A324;
 }
 
@@ -311,7 +311,7 @@ section {
 
 
 .skills .Vuejs::before {
-  width: 70%;
+  width: 80%;
   background: #30DD6D;
 }
 
